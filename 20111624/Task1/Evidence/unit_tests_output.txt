@@ -1,0 +1,19 @@
+Test run for C:\Users\ROHAN\Documents\ChatGPT\CA 1_Programming\20111624\Task1\HospitalStaffManagement.Tests\bin\Debug\net10.0\HospitalStaffManagement.Tests.dll (.NETCoreApp,Version=v10.0)
+A total of 1 test files matched the specified pattern.
+Test Parallelization enabled for C:\Users\ROHAN\Documents\ChatGPT\CA 1_Programming\20111624\Task1\HospitalStaffManagement.Tests\bin\Debug\net10.0\HospitalStaffManagement.Tests.dll (Workers: 28, Scope: MethodLevel)
+  Passed SearchStaff_NullOrBlankId_ReturnsFalse (null) [5 ms]
+  Passed SearchStaff_EmptyCollection_ReturnsFalse [5 ms]
+  Passed SearchStaff_CaseOrSurroundingWhitespace_ReturnsTrue ("  D001  ") [5 ms]
+  Passed SearchStaff_CaseOrSurroundingWhitespace_ReturnsTrue ("d001") [< 1 ms]
+  Passed SearchStaff_ExistingId_ReturnsTrue ("D001") [5 ms]
+  Passed SearchStaff_NullOrBlankId_ReturnsFalse ("   ") [5 ms]
+  Passed SearchStaff_UnknownId_ReturnsFalse [5 ms]
+  Passed SearchStaff_ExistingId_ReturnsTrue ("A001") [5 ms]
+  Passed SearchStaff_NullOrBlankId_ReturnsFalse ("") [5 ms]
+  Passed SearchStaff_ExistingId_ReturnsTrue ("N001") [5 ms]
+
+Test Run Successful.
+Total tests: 10
+     Passed: 10
+ Total time: 0.4868 Seconds
+Results File: C:\Users\ROHAN\Documents\ChatGPT\CA 1_Programming\20111624\Task1\Evidence\Task1Tests.trx

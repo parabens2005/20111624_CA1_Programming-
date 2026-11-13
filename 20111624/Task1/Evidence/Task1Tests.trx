@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="2a1b31ff-aac6-4273-9858-c63bf062e89b" name="ROHAN@ROHAN 2026-11-13 18:42:03" runUser="ROHAN\ROHAN" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2026-11-13T18:42:03.8933945+00:00" queuing="2026-11-13T18:42:03.8933949+00:00" start="2026-11-13T18:42:03.4147484+00:00" finish="2026-11-13T18:42:03.9152415+00:00" />
+  <TestSettings name="default" id="43c58950-eb26-4a3f-980e-8c6427884cd3">
+    <Deployment runDeploymentRoot="ROHAN_ROHAN_2026-11-13_18_42_03" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="d81adfcc-1b40-47a2-9277-cf325de0e937" testId="12d1be6a-7de2-8742-8499-26c7ebe903a4" testName="SearchStaff_ExistingId_ReturnsTrue (&quot;A001&quot;)" computerName="ROHAN" duration="00:00:00.0056660" startTime="2026-11-13T18:42:03.8324867+00:00" endTime="2026-11-13T18:42:03.8570160+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d81adfcc-1b40-47a2-9277-cf325de0e937" />
+    <UnitTestResult executionId="ac6d2d11-6756-4584-b8a9-c680b1f158ed" testId="108d1eff-ed76-8b85-84ee-35a8158f0184" testName="SearchStaff_UnknownId_ReturnsFalse" computerName="ROHAN" duration="00:00:00.0057010" startTime="2026-11-13T18:42:03.8325701+00:00" endTime="2026-11-13T18:42:03.8570201+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ac6d2d11-6756-4584-b8a9-c680b1f158ed" />
+    <UnitTestResult executionId="8382ddfa-b84b-4b13-9546-fda68143d020" testId="11f02cb4-5d00-893b-afc9-0ed1a37c854f" testName="SearchStaff_ExistingId_ReturnsTrue (&quot;D001&quot;)" computerName="ROHAN" duration="00:00:00.0056742" startTime="2026-11-13T18:42:03.8325969+00:00" endTime="2026-11-13T18:42:03.8570079+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8382ddfa-b84b-4b13-9546-fda68143d020" />
+    <UnitTestResult executionId="ed065a46-2b21-4788-b4ad-454bd86d1fea" testId="1ab8555f-a5ae-8c80-aea1-8d172d323594" testName="SearchStaff_CaseOrSurroundingWhitespace_ReturnsTrue (&quot;  D001  &quot;)" computerName="ROHAN" duration="00:00:00.0056576" startTime="2026-11-13T18:42:03.8324370+00:00" endTime="2026-11-13T18:42:03.8569896+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ed065a46-2b21-4788-b4ad-454bd86d1fea" />
+    <UnitTestResult executionId="b7b08d4a-91cd-4989-a462-8927e7101824" testId="13b83990-ad5b-8d11-8cce-e98c56f19bdb" testName="SearchStaff_ExistingId_ReturnsTrue (&quot;N001&quot;)" computerName="ROHAN" duration="00:00:00.0057510" startTime="2026-11-13T18:42:03.8325776+00:00" endTime="2026-11-13T18:42:03.8569722+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b7b08d4a-91cd-4989-a462-8927e7101824" />
+    <UnitTestResult executionId="b2b06fa7-2abf-4fb1-90fa-0faa72f05e7f" testId="1d51343d-3e8e-8416-8d81-f0aadad56459" testName="SearchStaff_NullOrBlankId_ReturnsFalse (&quot;&quot;)" computerName="ROHAN" duration="00:00:00.0057855" startTime="2026-11-13T18:42:03.8324530+00:00" endTime="2026-11-13T18:42:03.8569941+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b2b06fa7-2abf-4fb1-90fa-0faa72f05e7f" />
+    <UnitTestResult executionId="196998d9-e15c-4e5d-936e-3c713c60f5ff" testId="196dcd27-8a7d-863e-b01e-1f9dbdfdb606" testName="SearchStaff_NullOrBlankId_ReturnsFalse (&quot;   &quot;)" computerName="ROHAN" duration="00:00:00.0056852" startTime="2026-11-13T18:42:03.8325490+00:00" endTime="2026-11-13T18:42:03.8570034+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="196998d9-e15c-4e5d-936e-3c713c60f5ff" />
+    <UnitTestResult executionId="40ce4c87-2ec2-4b38-a7bb-d9a0ec72a66b" testId="1c6cbe8b-c9c1-8bcc-8c76-a696565e7dc4" testName="SearchStaff_EmptyCollection_ReturnsFalse" computerName="ROHAN" duration="00:00:00.0057245" startTime="2026-11-13T18:42:03.8324948+00:00" endTime="2026-11-13T18:42:03.8569986+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="40ce4c87-2ec2-4b38-a7bb-d9a0ec72a66b" />
+    <UnitTestResult executionId="321d9946-83a6-4e4d-b42d-1a2f049e3a88" testId="16fd079a-789f-843d-a9c7-7fb2becbc081" testName="SearchStaff_CaseOrSurroundingWhitespace_ReturnsTrue (&quot;d001&quot;)" computerName="ROHAN" duration="00:00:00.0005294" startTime="2026-11-13T18:42:03.8532699+00:00" endTime="2026-11-13T18:42:03.8569723+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="321d9946-83a6-4e4d-b42d-1a2f049e3a88" />
+    <UnitTestResult executionId="42753e1d-1a63-447b-9884-1640249eeae0" testId="183fc980-a67b-8ae6-b2fb-c7c036f4d6d7" testName="SearchStaff_NullOrBlankId_ReturnsFalse (null)" computerName="ROHAN" duration="00:00:00.0057010" startTime="2026-11-13T18:42:03.8325425+00:00" endTime="2026-11-13T18:42:03.8569723+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="42753e1d-1a63-447b-9884-1640249eeae0" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="SearchStaff_ExistingId_ReturnsTrue (&quot;N001&quot;)" storage="c:\users\rohan\documents\chatgpt\ca 1_programming\20111624\task1\hospitalstaffmanagement.tests\bin\debug\net10.0\hospitalstaffmanagement.tests.dll" id="13b83990-ad5b-8d11-8cce-e98c56f19bdb">
+      <Execution id="b7b08d4a-91cd-4989-a462-8927e7101824" />
+      <TestMethod codeBase="C:\Users\ROHAN\Documents\ChatGPT\CA 1_Programming\20111624\Task1\HospitalStaffManagement.Tests\bin\Debug\net10.0\HospitalStaffManagement.Tests.dll" adapterTypeName="executor://mstestadapter/v4" className="HospitalStaffManagement.Tests.StaffManagerTests" name="SearchStaff_ExistingId_ReturnsTrue" />
+    </UnitTest>
+    <UnitTest name="SearchStaff_NullOrBlankId_ReturnsFalse (null)" storage="c:\users\rohan\documents\chatgpt\ca 1_programming\20111624\task1\hospitalstaffmanagement.tests\bin\debug\net10.0\hospitalstaffmanagement.tests.dll" id="183fc980-a67b-8ae6-b2fb-c7c036f4d6d7">
+      <Execution id="42753e1d-1a63-447b-9884-1640249eeae0" />
+      <TestMethod codeBase="C:\Users\ROHAN\Documents\ChatGPT\CA 1_Programming\20111624\Task1\HospitalStaffManagement.Tests\bin\Debug\net10.0\HospitalStaffManagement.Tests.dll" adapterTypeName="executor://mstestadapter/v4" className="HospitalStaffManagement.Tests.StaffManagerTests" name="SearchStaff_NullOrBlankId_ReturnsFalse" />
+    </UnitTest>
+    <UnitTest name="SearchStaff_ExistingId_ReturnsTrue (&quot;D001&quot;)" storage="c:\users\rohan\documents\chatgpt\ca 1_programming\20111624\task1\hospitalstaffmanagement.tests\bin\debug\net10.0\hospitalstaffmanagement.tests.dll" id="11f02cb4-5d00-893b-afc9-0ed1a37c854f">
+      <Execution id="8382ddfa-b84b-4b13-9546-fda68143d020" />
+      <TestMethod codeBase="C:\Users\ROHAN\Documents\ChatGPT\CA 1_Programming\20111624\Task1\HospitalStaffManagement.Tests\bin\Debug\net10.0\HospitalStaffManagement.Tests.dll" adapterTypeName="executor://mstestadapter/v4" className="HospitalStaffManagement.Tests.StaffManagerTests" name="SearchStaff_ExistingId_ReturnsTrue" />
+    </UnitTest>
+    <UnitTest name="SearchStaff_EmptyCollection_ReturnsFalse" storage="c:\users\rohan\documents\chatgpt\ca 1_programming\20111624\task1\hospitalstaffmanagement.tests\bin\debug\net10.0\hospitalstaffmanagement.tests.dll" id="1c6cbe8b-c9c1-8bcc-8c76-a696565e7dc4">
+      <Execution id="40ce4c87-2ec2-4b38-a7bb-d9a0ec72a66b" />
+      <TestMethod codeBase="C:\Users\ROHAN\Documents\ChatGPT\CA 1_Programming\20111624\Task1\HospitalStaffManagement.Tests\bin\Debug\net10.0\HospitalStaffManagement.Tests.dll" adapterTypeName="executor://mstestadapter/v4" className="HospitalStaffManagement.Tests.StaffManagerTests" name="SearchStaff_EmptyCollection_ReturnsFalse" />
+    </UnitTest>
+    <UnitTest name="SearchStaff_ExistingId_ReturnsTrue (&quot;A001&quot;)" storage="c:\users\rohan\documents\chatgpt\ca 1_programming\20111624\task1\hospitalstaffmanagement.tests\bin\debug\net10.0\hospitalstaffmanagement.tests.dll" id="12d1be6a-7de2-8742-8499-26c7ebe903a4">
+      <Execution id="d81adfcc-1b40-47a2-9277-cf325de0e937" />
+      <TestMethod codeBase="C:\Users\ROHAN\Documents\ChatGPT\CA 1_Programming\20111624\Task1\HospitalStaffManagement.Tests\bin\Debug\net10.0\HospitalStaffManagement.Tests.dll" adapterTypeName="executor://mstestadapter/v4" className="HospitalStaffManagement.Tests.StaffManagerTests" name="SearchStaff_ExistingId_ReturnsTrue" />
+    </UnitTest>
+    <UnitTest name="SearchStaff_NullOrBlankId_ReturnsFalse (&quot;&quot;)" storage="c:\users\rohan\documents\chatgpt\ca 1_programming\20111624\task1\hospitalstaffmanagement.tests\bin\debug\net10.0\hospitalstaffmanagement.tests.dll" id="1d51343d-3e8e-8416-8d81-f0aadad56459">
+      <Execution id="b2b06fa7-2abf-4fb1-90fa-0faa72f05e7f" />
+      <TestMethod codeBase="C:\Users\ROHAN\Documents\ChatGPT\CA 1_Programming\20111624\Task1\HospitalStaffManagement.Tests\bin\Debug\net10.0\HospitalStaffManagement.Tests.dll" adapterTypeName="executor://mstestadapter/v4" className="HospitalStaffManagement.Tests.StaffManagerTests" name="SearchStaff_NullOrBlankId_ReturnsFalse" />
+    </UnitTest>
+    <UnitTest name="SearchStaff_CaseOrSurroundingWhitespace_ReturnsTrue (&quot;d001&quot;)" storage="c:\users\rohan\documents\chatgpt\ca 1_programming\20111624\task1\hospitalstaffmanagement.tests\bin\debug\net10.0\hospitalstaffmanagement.tests.dll" id="16fd079a-789f-843d-a9c7-7fb2becbc081">
+      <Execution id="321d9946-83a6-4e4d-b42d-1a2f049e3a88" />
+      <TestMethod codeBase="C:\Users\ROHAN\Documents\ChatGPT\CA 1_Programming\20111624\Task1\HospitalStaffManagement.Tests\bin\Debug\net10.0\HospitalStaffManagement.Tests.dll" adapterTypeName="executor://mstestadapter/v4" className="HospitalStaffManagement.Tests.StaffManagerTests" name="SearchStaff_CaseOrSurroundingWhitespace_ReturnsTrue" />
+    </UnitTest>
+    <UnitTest name="SearchStaff_UnknownId_ReturnsFalse" storage="c:\users\rohan\documents\chatgpt\ca 1_programming\20111624\task1\hospitalstaffmanagement.tests\bin\debug\net10.0\hospitalstaffmanagement.tests.dll" id="108d1eff-ed76-8b85-84ee-35a8158f0184">
+      <Execution id="ac6d2d11-6756-4584-b8a9-c680b1f158ed" />
+      <TestMethod codeBase="C:\Users\ROHAN\Documents\ChatGPT\CA 1_Programming\20111624\Task1\HospitalStaffManagement.Tests\bin\Debug\net10.0\HospitalStaffManagement.Tests.dll" adapterTypeName="executor://mstestadapter/v4" className="HospitalStaffManagement.Tests.StaffManagerTests" name="SearchStaff_UnknownId_ReturnsFalse" />
+    </UnitTest>
+    <UnitTest name="SearchStaff_CaseOrSurroundingWhitespace_ReturnsTrue (&quot;  D001  &quot;)" storage="c:\users\rohan\documents\chatgpt\ca 1_programming\20111624\task1\hospitalstaffmanagement.tests\bin\debug\net10.0\hospitalstaffmanagement.tests.dll" id="1ab8555f-a5ae-8c80-aea1-8d172d323594">
+      <Execution id="ed065a46-2b21-4788-b4ad-454bd86d1fea" />
+      <TestMethod codeBase="C:\Users\ROHAN\Documents\ChatGPT\CA 1_Programming\20111624\Task1\HospitalStaffManagement.Tests\bin\Debug\net10.0\HospitalStaffManagement.Tests.dll" adapterTypeName="executor://mstestadapter/v4" className="HospitalStaffManagement.Tests.StaffManagerTests" name="SearchStaff_CaseOrSurroundingWhitespace_ReturnsTrue" />
+    </UnitTest>
+    <UnitTest name="SearchStaff_NullOrBlankId_ReturnsFalse (&quot;   &quot;)" storage="c:\users\rohan\documents\chatgpt\ca 1_programming\20111624\task1\hospitalstaffmanagement.tests\bin\debug\net10.0\hospitalstaffmanagement.tests.dll" id="196dcd27-8a7d-863e-b01e-1f9dbdfdb606">
+      <Execution id="196998d9-e15c-4e5d-936e-3c713c60f5ff" />
+      <TestMethod codeBase="C:\Users\ROHAN\Documents\ChatGPT\CA 1_Programming\20111624\Task1\HospitalStaffManagement.Tests\bin\Debug\net10.0\HospitalStaffManagement.Tests.dll" adapterTypeName="executor://mstestadapter/v4" className="HospitalStaffManagement.Tests.StaffManagerTests" name="SearchStaff_NullOrBlankId_ReturnsFalse" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="12d1be6a-7de2-8742-8499-26c7ebe903a4" executionId="d81adfcc-1b40-47a2-9277-cf325de0e937" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="108d1eff-ed76-8b85-84ee-35a8158f0184" executionId="ac6d2d11-6756-4584-b8a9-c680b1f158ed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="11f02cb4-5d00-893b-afc9-0ed1a37c854f" executionId="8382ddfa-b84b-4b13-9546-fda68143d020" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1ab8555f-a5ae-8c80-aea1-8d172d323594" executionId="ed065a46-2b21-4788-b4ad-454bd86d1fea" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="13b83990-ad5b-8d11-8cce-e98c56f19bdb" executionId="b7b08d4a-91cd-4989-a462-8927e7101824" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1d51343d-3e8e-8416-8d81-f0aadad56459" executionId="b2b06fa7-2abf-4fb1-90fa-0faa72f05e7f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="196dcd27-8a7d-863e-b01e-1f9dbdfdb606" executionId="196998d9-e15c-4e5d-936e-3c713c60f5ff" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1c6cbe8b-c9c1-8bcc-8c76-a696565e7dc4" executionId="40ce4c87-2ec2-4b38-a7bb-d9a0ec72a66b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="16fd079a-789f-843d-a9c7-7fb2becbc081" executionId="321d9946-83a6-4e4d-b42d-1a2f049e3a88" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="183fc980-a67b-8ae6-b2fb-c7c036f4d6d7" executionId="42753e1d-1a63-447b-9884-1640249eeae0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="10" executed="10" passed="10" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>Test Parallelization enabled for C:\Users\ROHAN\Documents\ChatGPT\CA 1_Programming\20111624\Task1\HospitalStaffManagement.Tests\bin\Debug\net10.0\HospitalStaffManagement.Tests.dll (Workers: 28, Scope: MethodLevel)&#xD;
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>

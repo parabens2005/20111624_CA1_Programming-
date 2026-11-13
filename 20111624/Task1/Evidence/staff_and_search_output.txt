@@ -1,0 +1,92 @@
+========================================
+STAFF MANAGEMENT
+========================================
+1. Add Doctor
+2. Add Nurse
+3. Add Administrative Staff
+4. Display All Staff
+5. Search Staff
+0. Exit
+========================================
+Enter your choice: Name: Staff ID: Department: Specialisation: Staff member D001 added successfully.
+
+========================================
+STAFF MANAGEMENT
+========================================
+1. Add Doctor
+2. Add Nurse
+3. Add Administrative Staff
+4. Display All Staff
+5. Search Staff
+0. Exit
+========================================
+Enter your choice: Name: Staff ID: Department: Shift: Staff member N001 added successfully.
+
+========================================
+STAFF MANAGEMENT
+========================================
+1. Add Doctor
+2. Add Nurse
+3. Add Administrative Staff
+4. Display All Staff
+5. Search Staff
+0. Exit
+========================================
+Enter your choice: Name: Staff ID: Department: Administrative role: Staff member A001 added successfully.
+
+========================================
+STAFF MANAGEMENT
+========================================
+1. Add Doctor
+2. Add Nurse
+3. Add Administrative Staff
+4. Display All Staff
+5. Search Staff
+0. Exit
+========================================
+Enter your choice: ALL STAFF
+Doctor | ID: D001 | Name: Aisha Khan | Department: Cardiology | Specialisation: Cardiology
+Duty: Dr Aisha Khan diagnoses patients and provides Cardiology treatment.
+
+Nurse | ID: N001 | Name: Liam Murphy | Department: Emergency | Shift: Day
+Duty: Liam Murphy monitors patients and administers care during the Day shift.
+
+Administrative Staff | ID: A001 | Name: Emma Walsh | Department: Reception | Role: Receptionist
+Duty: Emma Walsh manages appointments and staff records as Receptionist.
+
+
+========================================
+STAFF MANAGEMENT
+========================================
+1. Add Doctor
+2. Add Nurse
+3. Add Administrative Staff
+4. Display All Staff
+5. Search Staff
+0. Exit
+========================================
+Enter your choice: Enter staff ID to search: Staff found (True).
+
+========================================
+STAFF MANAGEMENT
+========================================
+1. Add Doctor
+2. Add Nurse
+3. Add Administrative Staff
+4. Display All Staff
+5. Search Staff
+0. Exit
+========================================
+Enter your choice: Enter staff ID to search: Staff not found (False).
+
+========================================
+STAFF MANAGEMENT
+========================================
+1. Add Doctor
+2. Add Nurse
+3. Add Administrative Staff
+4. Display All Staff
+5. Search Staff
+0. Exit
+========================================
+Enter your choice: Goodbye.

@@ -1,0 +1,60 @@
+========================================
+STAFF MANAGEMENT
+========================================
+1. Add Doctor
+2. Add Nurse
+3. Add Administrative Staff
+4. Display All Staff
+5. Search Staff
+0. Exit
+========================================
+Enter your choice: No staff have been added.
+
+========================================
+STAFF MANAGEMENT
+========================================
+1. Add Doctor
+2. Add Nurse
+3. Add Administrative Staff
+4. Display All Staff
+5. Search Staff
+0. Exit
+========================================
+Enter your choice: Invalid choice. Enter 0, 1, 2, 3, 4 or 5.
+
+========================================
+STAFF MANAGEMENT
+========================================
+1. Add Doctor
+2. Add Nurse
+3. Add Administrative Staff
+4. Display All Staff
+5. Search Staff
+0. Exit
+========================================
+Enter your choice: Name: This field cannot be blank.
+Name: Staff ID: Department: Specialisation: Staff member D001 added successfully.
+
+========================================
+STAFF MANAGEMENT
+========================================
+1. Add Doctor
+2. Add Nurse
+3. Add Administrative Staff
+4. Display All Staff
+5. Search Staff
+0. Exit
+========================================
+Enter your choice: Name: Staff ID: A staff member with this ID already exists.
+
+========================================
+STAFF MANAGEMENT
+========================================
+1. Add Doctor
+2. Add Nurse
+3. Add Administrative Staff
+4. Display All Staff
+5. Search Staff
+0. Exit
+========================================
+Enter your choice: Goodbye.

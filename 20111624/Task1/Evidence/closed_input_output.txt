@@ -1,0 +1,22 @@
+========================================
+STAFF MANAGEMENT
+========================================
+1. Add Doctor
+2. Add Nurse
+3. Add Administrative Staff
+4. Display All Staff
+5. Search Staff
+0. Exit
+========================================
+Enter your choice: Name: Staff ID: 
+========================================
+STAFF MANAGEMENT
+========================================
+1. Add Doctor
+2. Add Nurse
+3. Add Administrative Staff
+4. Display All Staff
+5. Search Staff
+0. Exit
+========================================
+Enter your choice: 
