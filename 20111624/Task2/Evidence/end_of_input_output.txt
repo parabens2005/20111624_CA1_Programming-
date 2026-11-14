@@ -1,0 +1,6 @@
+========================================
+STUDENT RECORDS
+========================================
+Student records stored: 20
+
+Enter student ID (or 0 to exit): 

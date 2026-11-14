@@ -1,0 +1,23 @@
+Task 2 CLI verification
+PASS: all_20_records: exits successfully without errors
+PASS: Dictionary reports exactly 20 stored records
+PASS: All 20 requested IDs return exactly one unique record in the requested order
+PASS: Every retrieved ID is associated with its expected student name
+PASS: Every record displays exactly the three populated assignment modules
+PASS: All 60 module results contain stored marks and associated sample grade labels
+PASS: Charles Severance exactly matches the supplied example
+PASS: The final ID retrieves Ella Doyle and all three expected results
+PASS: All-record lookup session ends cleanly with 0
+PASS: lookup_edge_cases: exits successfully without errors
+PASS: Unknown ID 20001030 reports not found
+PASS: Malformed ID text reports not found without crashing
+PASS: Blank ID receives a clear message and lookup continues
+PASS: Surrounding whitespace is trimmed and retrieves only the intended record
+PASS: Lookup continues after invalid inputs and exits with 0
+PASS: exit_only: exits successfully without errors
+PASS: Immediate 0 exits without displaying a student record
+PASS: end_of_input: exits successfully without errors
+PASS: End of input exits cleanly without looping or displaying a record
+
+Result: 19/19 checks passed.
+Evidence contains original input and unmodified captured standard output for each session.

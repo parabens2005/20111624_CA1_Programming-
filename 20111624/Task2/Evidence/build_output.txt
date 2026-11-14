@@ -1,0 +1,11 @@
+Failed to add 'C:\Users\ROHAN\AppData\Local\Packages\openai.codex_2p2nqsd0c76g0\AC\#!sandbox.{793cdd69-a6d8-4437-9902-eca38ec416dd}\Temp\ca1-task2-dotnet\.dotnet\tools' to the PATH environment variable. Add this directory to your PATH to use tools installed with 'dotnet tool install'.
+An issue was encountered verifying workloads. For more information, run "dotnet workload update".
+  Determining projects to restore...
+  Restored C:\Users\ROHAN\Documents\ChatGPT\CA 1_Programming\20111624\Task2\StudentRecords.csproj (in 59 ms).
+  StudentRecords -> C:\Users\ROHAN\Documents\ChatGPT\CA 1_Programming\20111624\Task2\bin\Debug\net10.0\StudentRecords.dll
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:02.33

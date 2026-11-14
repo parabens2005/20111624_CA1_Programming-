@@ -1,0 +1,20 @@
+========================================
+STUDENT RECORDS
+========================================
+Student records stored: 20
+
+Enter student ID (or 0 to exit): Student not found: 20001030
+
+Enter student ID (or 0 to exit): Student not found: not-an-id
+
+Enter student ID (or 0 to exit): Student ID cannot be blank.
+
+Enter student ID (or 0 to exit): Student ID: 20001010
+Student Name: Charles Severance
+Module                   Marks   Grade
+----------------------------------------
+Advanced Programming     70      B+
+Adv. Databases           65      B
+Networking & Security    55      C
+
+Enter student ID (or 0 to exit): Goodbye.
